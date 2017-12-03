@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="disque.svg"
+   inkscape:export-filename="/home/fred/blender/assets/disque.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3338">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4401">
+      <stop
+         style="stop-color:#ff0017;stop-opacity:1"
+         offset="0"
+         id="stop4165" />
+      <stop
+         style="stop-color:#fffa8b;stop-opacity:1"
+         offset="1"
+         id="stop4167" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4401"
+       id="radialGradient4169"
+       cx="335.61865"
+       cy="491.18112"
+       fx="335.61865"
+       fy="491.18112"
+       r="229.28572"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1625779,-1.6910225,0.61598522,0.78775771,-692.74314,671.7881)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49519338"
+     inkscape:cx="222.14598"
+     inkscape:cy="436.06463"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3341">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#7cff00;stroke-width:1.64357376;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3344"
+       cx="113.63261"
+       cy="-583.94043"
+       r="130.70325"
+       transform="matrix(-0.70269608,0.71149014,-0.71149014,-0.70269608,0,0)" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient4169);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill-rule:nonzero"
+       id="path3361"
+       cx="335.61865"
+       cy="491.18112"
+       r="229.28572" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:normal;font-size:62.5px;line-height:125%;font-family:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Courier 10 Pitch, Italic';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+       id="text3346"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path3344"
+         id="textPath3358"><tspan
+   id="tspan3350"
+   style="-inkscape-font-specification:'Courier 10 Pitch, Italic';font-family:'Courier 10 Pitch';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:62.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;">Le cybertrilobite</tspan></textPath></text>
+  </g>
+</svg>
